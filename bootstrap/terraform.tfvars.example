@@ -1,0 +1,3 @@
+# Copier ce fichier en terraform.tfvars (non commité) et remplacer les valeurs.
+project_id  = "my-gcp-project-id"
+region      = "europe-west1"
